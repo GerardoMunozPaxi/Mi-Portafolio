@@ -1,5 +1,8 @@
 # Mi-Portafolio
-Portafolio hecho por Gerardo Manuel Muñoz Paxi donde reúne trabajos realizados en cienca de datos, utilizando librerias como: pandas, numpy, matplotlib, y seaborn.
+Trabajo de ciencia de datos donde se trabaja donde se analiza la premier league 2020 -2021
 
-Contenido
-- Análisis de datos
+Librerias Utilizadas
+ - numpy 
+ - pandas 
+ - matplotlib.pyplot
+ - seaborn
